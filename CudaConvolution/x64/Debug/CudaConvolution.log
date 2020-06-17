@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Davor\Source\Repos\CudaConvolution\CudaConvolution\timer.h(14,32): warning C4244: 'return': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  CudaConvolution.vcxproj -> C:\Users\Davor\Source\Repos\CudaConvolution\x64\Debug\CudaConvolution.exe
